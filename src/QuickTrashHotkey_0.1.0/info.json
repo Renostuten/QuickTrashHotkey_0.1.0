@@ -1,0 +1,8 @@
+{
+  "name": "QuickTrashHotkey",
+  "version": "0.1.0",
+  "title": "Quick Trash Hotkey",
+  "author": "Renostuten",
+  "factorio_version": "2.0",
+  "description": "Adds a hotkey to quickly move selected items into the trash."
+}
